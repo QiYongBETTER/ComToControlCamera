@@ -1,0 +1,10 @@
+﻿生成启动时间为 2017/3/29 13:59:33。
+     1>项目“G:\ProjectFiles\Com(Auto)\test\test.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         test.vcxproj -> G:\ProjectFiles\Com(Auto)\Debug\Com.exe
+     1>已完成生成项目“G:\ProjectFiles\Com(Auto)\test\test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.05
